@@ -1,2 +1,13 @@
 **/.DS_Store
 **/*.ipynb_checkpoints/
+**/mnt/.cache/
+**/mnt/.config/
+**/mnt/.ipynb_checkpoints/
+**/mnt/.ipython/
+**/mnt/.jupyter/
+**/mnt/.local/
+**/mnt/.node-gyp/
+**/mnt/.npm/
+**/mnt/.ivy2/
+**/mnt/checkpoint/
+**/mnt/output/
